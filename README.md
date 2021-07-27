@@ -3,8 +3,8 @@ ECE4810 Project IoT System
 duration: 2 weeks
 
 Credits to:
-wongzhiwei98
-Darrylqk
+wongzhiwei98, 
+Darrylqk, 
 josephma99
 
 
